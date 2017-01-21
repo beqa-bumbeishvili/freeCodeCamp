@@ -14,7 +14,7 @@
  <tr>
  
  <tr>
-   <td><a href="http://s.codepen.io/beqa-bumbeishvili/debug/bEJqop#Projects">alternative Portfolio</a></td>
+   <td><a href="http://s.codepen.io/beqa-bumbeishvili/debug/bEJqop#Projects">Portfolio</a> (alternative)</td>
    <td>html,css(bootstrap),js(jquery,fullpage)</td>
    <td>4 day</td>
  </tr>
